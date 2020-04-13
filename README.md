@@ -7,6 +7,12 @@ curing. For this project various algorithm used for finding classification accur
 and it is implemented on R tool.Breast Cancer Diagnosis is distinguishing of benign
 from malignant breast lumps.We consider Wisconsin breast cancer (original)
 dataset taken from UCI machine learning repository.
+
+The principal objective in this project is simple, classify a patient in the
+groups with diagnosis benign or malign according to values of 32 features
+provided by the dataset created by the University of Wisconsin which has 569
+instances (rows — samples).
+
 In this project different techniques are used for the prediction of breast
 cancer risk and their performance is compared in order to evaluate the best model.
 Experimental results shows that the Random Forest is a better model for the
